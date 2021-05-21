@@ -1,16 +1,19 @@
 * {
     overflow: auto;
 }
+a {
+    color: white;
+    margin: 2px 8px;
+    background-color: #6C829DC0;
+    padding: 6px;
+    border-radius: 5px;
+    font-size: 12px;
+}
 a.suivant {
     float: right;
-    color: white;
-    margin: 8px;
 }
 a.precedent {
     float: left;
-    color: white;
-    margin: 8px;
-
 }
 body {
     background-color: #8BA1BB;
